@@ -1,0 +1,387 @@
+2018-07-16 09:48:10,761 ERROR 14216 [-/::1/-/27ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 14216
+hostname: ShellWang-PC
+
+2018-07-16 09:50:44,293 ERROR 13684 [-/::1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 13684
+hostname: ShellWang-PC
+
+2018-07-16 09:51:36,754 ERROR 1228 [-/::1/-/16ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 1228
+hostname: ShellWang-PC
+
+2018-07-16 09:51:38,452 ERROR 1228 [-/::1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 1228
+hostname: ShellWang-PC
+
+2018-07-16 09:53:21,078 ERROR 1100 [-/::1/-/9ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 1100
+hostname: ShellWang-PC
+
+2018-07-16 09:53:40,096 ERROR 15240 [-/::1/-/7ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 15240
+hostname: ShellWang-PC
+
+2018-07-16 09:53:41,587 ERROR 15240 [-/::1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 15240
+hostname: ShellWang-PC
+
+2018-07-16 09:53:42,754 ERROR 15240 [-/::1/-/1ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 15240
+hostname: ShellWang-PC
+
+2018-07-16 09:56:56,644 ERROR 9788 [-/::1/-/16ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 9788
+hostname: ShellWang-PC
+
+2018-07-16 09:57:19,865 ERROR 10948 [-/::1/-/16ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 10948
+hostname: ShellWang-PC
+
+2018-07-16 09:57:20,998 ERROR 10948 [-/::1/-/3ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 10948
+hostname: ShellWang-PC
+
+2018-07-16 10:01:24,238 ERROR 15216 [-/::1/-/15ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 15216
+hostname: ShellWang-PC
+
+2018-07-16 10:02:10,625 ERROR 14628 [-/::1/-/13ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 14628
+hostname: ShellWang-PC
+
+2018-07-16 10:05:30,756 ERROR 14784 [-/::1/-/12ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 14784
+hostname: ShellWang-PC
+
+2018-07-16 10:05:31,963 ERROR 14784 [-/::1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 14784
+hostname: ShellWang-PC
+
+2018-07-16 10:05:32,577 ERROR 14784 [-/::1/-/2ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:318:15)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 14784
+hostname: ShellWang-PC
+
+2018-07-16 10:38:17,374 ERROR 12540 [-/::1/-/22ms GET /news] nodejs.TypeError: Cannot destructure property `serverUrl` of 'undefined' or 'null'.
+    at NewsService.list (C:\Users\Administrator\egg-demo\app\service\news.js:6:49)
+    at NewsController.list (C:\Users\Administrator\egg-demo\app\controller\news.js:7:45)
+    at Object.callFn (C:\Users\Administrator\egg-demo\node_modules\egg-core\lib\utils\index.js:36:21)
+    at Object.classControllerMiddleware (C:\Users\Administrator\egg-demo\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (C:\Users\Administrator\egg-demo\node_modules\egg-core\lib\utils\index.js:36:21)
+    at wrappedController (C:\Users\Administrator\egg-demo\node_modules\egg-core\lib\utils\router.js:322:18)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+    at next (C:\Users\Administrator\egg-demo\node_modules\koa-router\node_modules\koa-compose\index.js:45:18)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-router\lib\router.js:346:16
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-router\node_modules\koa-compose\index.js:44:32)
+
+pid: 12540
+hostname: ShellWang-PC
+
+2018-07-16 10:48:15,830 ERROR 11288 [-/::1/-/22ms GET /news] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (C:\Users\Administrator\egg-demo\node_modules\egg\lib\application.js:321:37)
+    at Object.get cookies [as cookies] (C:\Users\Administrator\egg-demo\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:78:33)
+    at Object.ensureCsrfSecret (C:\Users\Administrator\egg-demo\node_modules\egg-security\app\extend\context.js:89:13)
+    at csrf (C:\Users\Administrator\egg-demo\node_modules\egg-security\lib\middlewares\csrf.js:14:9)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+    at session (C:\Users\Administrator\egg-demo\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\Users\Administrator\egg-demo\node_modules\koa-compose\index.js:42:32)
+
+pid: 11288
+hostname: ShellWang-PC
+
+2018-07-16 10:49:15,115 ERROR 14404 [-/::1/-/5050ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\Administrator\egg-demo\node_modules\urllib\lib\urllib.js:811:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5023,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 14404
+hostname: ShellWang-PC
+
+2018-07-16 10:49:34,151 ERROR 14404 [-/::1/-/5007ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\Administrator\egg-demo\node_modules\urllib\lib\urllib.js:811:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 2
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 14404
+hostname: ShellWang-PC
+
+2018-07-16 11:36:07,645 ERROR 10644 [-/::1/-/5029ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (C:\Users\Administrator\egg-demo\node_modules\urllib\lib\urllib.js:811:15)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"headers":{},"size":0,"aborted":false,"rt":5021,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 10644
+hostname: ShellWang-PC
+
+2018-07-16 11:41:59,351 ERROR 14932 A client (::ffff:127.0.0.1:12307) error [HPE_INVALID_METHOD] occurred: Parse Error
+2018-07-16 11:41:59,366 ERROR 14932 [-/::1/-/122ms GET /news] nodejs.ResponseError: write EPROTO 101057795:error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol:openssl\ssl\s23_clnt.c:827:
+, GET https://localhost:7001/app/public/json/topstories.json -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"localhost:7001:::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+
+    at _errnoException (util.js:992:11)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:864:14)
+code: "EPROTO"
+errno: "EPROTO"
+syscall: "write"
+name: "ResponseError"
+data: undefined
+path: "/app/public/json/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"headers":{},"size":0,"aborted":false,"rt":99,"keepAliveSocket":false,"requestUrls":["https://localhost:7001/app/public/json/topstories.json"],"timing":null,"remoteAddress":"127.0.0.1","remotePort":7001,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 14932
+hostname: ShellWang-PC
+
+2018-07-16 11:42:08,734 ERROR 14932 A client (::ffff:127.0.0.1:12320) error [HPE_INVALID_METHOD] occurred: Parse Error
+2018-07-16 11:42:08,737 ERROR 14932 [-/::1/-/10ms GET /news] nodejs.ResponseError: write EPROTO 101057795:error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol:openssl\ssl\s23_clnt.c:827:
+, GET https://localhost:7001/app/public/json/topstories.json -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"localhost:7001:::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+
+    at _errnoException (util.js:992:11)
+    at WriteWrap.afterWrite [as oncomplete] (net.js:864:14)
+code: "EPROTO"
+errno: "EPROTO"
+syscall: "write"
+name: "ResponseError"
+data: undefined
+path: "/app/public/json/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"headers":{},"size":0,"aborted":false,"rt":8,"keepAliveSocket":false,"requestUrls":["https://localhost:7001/app/public/json/topstories.json"],"timing":null,"remoteAddress":"127.0.0.1","remotePort":7001,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 14932
+hostname: ShellWang-PC
+
+2018-07-16 11:43:22,921 ERROR 15976 [-/::1/-/2582ms GET /news] nodejs.RequestError: getaddrinfo ENOTFOUND app app:80, GET http://app/public/json/topstories.json -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"app:80:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {} (app)
+    at errnoException (dns.js:50:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:92:26)
+code: "ENOTFOUND"
+errno: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "app"
+host: "app"
+port: 80
+name: "RequestError"
+data: undefined
+path: "/public/json/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"headers":{},"size":0,"aborted":false,"rt":2563,"keepAliveSocket":false,"requestUrls":["http://app/public/json/topstories.json"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 15976
+hostname: ShellWang-PC
+
+2018-07-16 14:00:25,508 ERROR 14408 nodejs.ClusterClientNoResponseError: client no response in 3569107ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (C:\Users\Administrator\egg-demo\node_modules\cluster-client\lib\leader.js:74:23)
+    at ontimeout (timers.js:498:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:290:5)
+name: "ClusterClientNoResponseError"
+pid: 14408
+hostname: ShellWang-PC
+
